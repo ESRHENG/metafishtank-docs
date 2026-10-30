@@ -86,7 +86,7 @@ event AgentStateUpdated(
 );
 ```
 
-The production implementation may evolve after security review, gas profiling and integration testing. The whitepaper defines the intended interface model rather than freezing an unaudited implementation.
+The production implementation may evolve after security review, gas profiling and integration testing. The litepaper defines the intended interface model rather than freezing an unaudited implementation.
 
 ## 4.4 The MAP Socket Interface
 

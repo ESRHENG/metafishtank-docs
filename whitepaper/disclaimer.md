@@ -1,6 +1,6 @@
 # ⚠️ Disclaimer
 
-This whitepaper describes the current product, technical and economic direction of MetaFishtank.
+This litepaper describes the current product, technical and economic direction of MetaFishtank.
 
 It is not investment advice, a prospectus, a promise of returns or a guarantee that every proposed feature, integration, standard, allocation, timeline or economic parameter will be implemented exactly as described.
 
@@ -22,4 +22,6 @@ References to emerging standards such as BAP-578 describe optional compatibility
 
 Users and developers are responsible for evaluating smart-contract, market, legal, operational and third-party risks before interacting with any production deployment.
 
-**Participation risk:** Crypto asset prices are highly volatile. MetaFishtank does not promise any token price, U.S. dollar return or fixed annual yield. Fish returns and rewards are counted in $MFT, and rewards vary with participation. Early withdrawal from staking forfeits current rewards and incurs a penalty. Only participate with funds you can afford to lose. This whitepaper does not contain any token sale terms.
+**Participation risk:** Crypto asset prices are highly volatile. MetaFishtank does not promise any token price, U.S. dollar return or fixed annual yield. Fish returns and rewards are counted in $MFT, and rewards vary with participation. Early withdrawal from staking forfeits current rewards and incurs a penalty. Only participate with funds you can afford to lose. This litepaper does not contain any token sale terms.
+
+This litepaper is a condensed version of the [MetaFishtank Whitepaper V3.3](https://metaconsensusdynamicspteltd.notion.site/MetaFishtank-Whitepaper-V3-3-3be892dc898e81c1bd18fcd36bda9eb2). In case of any difference, the full whitepaper prevails.

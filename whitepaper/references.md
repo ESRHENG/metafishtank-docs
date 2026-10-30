@@ -1,6 +1,6 @@
 # 📚 References
 
-The following sources provide technical context for the execution environment and compatibility targets discussed in this whitepaper.
+The following sources provide technical context for the execution environment and compatibility targets discussed in this litepaper.
 
 ## BNB Chain
 
@@ -25,8 +25,8 @@ The following sources provide technical context for the execution environment an
 
 ## GitBook / Documentation
 
-The repository version of this whitepaper is structured for GitBook Git Sync using standard Markdown, `README.md`, `SUMMARY.md` and `.gitbook.yaml`.
+The repository version of this litepaper is structured for GitBook Git Sync using standard Markdown, `README.md`, `SUMMARY.md` and `.gitbook.yaml`.
 
 ## Standards Note
 
-Any emerging or draft standard—including BAP-578—must be re-evaluated against its latest official specification before production integration. A compatibility target in this whitepaper does not mean a draft has become a finalized dependency.
+Any emerging or draft standard—including BAP-578—must be re-evaluated against its latest official specification before production integration. A compatibility target in this litepaper does not mean a draft has become a finalized dependency.

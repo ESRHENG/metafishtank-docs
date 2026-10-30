@@ -11,7 +11,7 @@ $MFT is the utility and coordination token shared by every game on the MetaFisht
 | Category                          | Share |      Amount | Use and release |
 | --------------------------------- | ----: | ----------: | --------------- |
 | Ecosystem Rewards                 |   60% | 600,000,000 | Game mining (official fish raising), staking mining, partner games and tournaments. Released over 8 years, front-loaded, with an annual cap; the yearly schedule will be published before TGE. |
-| Investors · Community Sale        |   10% | 100,000,000 | Terms are published on the official sale page and are not part of this whitepaper. |
+| Investors · Community Sale        |   10% | 100,000,000 | Terms are published on the official sale page and are not part of this litepaper. |
 | Investors · Institutional Reserve |    5% |  50,000,000 | 12-month lock, then 24-month linear release. |
 | Team & Advisors                   |   10% | 100,000,000 | Fully locked for the first 24 months after TGE, then linear release in months 25–72 through a public vesting contract. |
 | Testing & Community               |    5% |  50,000,000 | 10 million for test-season game airdrops (see 7.6); the rest for community and partner campaigns. |
