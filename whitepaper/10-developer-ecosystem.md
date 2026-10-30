@@ -85,6 +85,8 @@ For selected protocol-owned or reference interactions, an illustrative revenue s
 
 This is a reference model, not a mandatory universal rule for all third-party games.
 
+**Note:** This 80/15/5 split is a reference allocation of individual interaction revenue among users, developers and the protocol. It is separate from the default co-operated order split in 11.9 (partner 80%, platform 20%); the two do not stack.
+
 ## 10.7 Network Flywheel
 
 ### Product Flywheel
