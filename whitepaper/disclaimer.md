@@ -21,3 +21,5 @@ Public Beta points, rankings, achievements, provenance or eligibility signals do
 References to emerging standards such as BAP-578 describe optional compatibility targets and should not be interpreted as dependence on a finalized specification.
 
 Users and developers are responsible for evaluating smart-contract, market, legal, operational and third-party risks before interacting with any production deployment.
+
+**Participation risk:** Crypto asset prices are highly volatile. MetaFishtank does not promise any token price, U.S. dollar return or fixed annual yield. Fish returns and rewards are counted in $MFT, and rewards vary with participation. Early withdrawal from staking forfeits current rewards and incurs a penalty. Only participate with funds you can afford to lose. This whitepaper does not contain any token sale terms.

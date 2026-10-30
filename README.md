@@ -1,4 +1,4 @@
-# MetaFishtank Whitepaper V3.2
+# MetaFishtank Whitepaper V3.3
 
 **The Infrastructure for User-Generated Agents (UGA) on BNB Chain**
 
@@ -22,4 +22,4 @@ MetaFishtank is **not a new blockchain, rollup, or Layer 2**. The initial on-cha
 
 > **BNB Chain provides the execution environment. MAP defines the asset language. Anima gives the asset life.**
 
-This repository contains the official English documentation structure for **MetaFishtank Whitepaper V3.2 — BNB Chain Edition**.
+This repository contains the official English documentation structure for **MetaFishtank Whitepaper V3.3 — BNB Chain Edition**.

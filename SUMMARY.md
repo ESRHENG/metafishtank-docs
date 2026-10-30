@@ -1,6 +1,6 @@
 # Summary
 
-* [MetaFishtank Whitepaper V3.2](README.md)
+* [MetaFishtank Whitepaper V3.3](README.md)
 * [1. Executive Summary](whitepaper/01-executive-summary.md)
 * [2. The Era of Living Assets](whitepaper/02-living-assets.md)
 * [3. Why BNB Chain?](whitepaper/03-why-bnb-chain.md)

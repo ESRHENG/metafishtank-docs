@@ -16,7 +16,7 @@ Drawafish is the genesis application for MetaFishtank. Its purpose is larger tha
 
 ## 7.2 Daily Interaction Loop
 
-The original “attention” mechanic is retained as a product loop, but V3.2 removes guaranteed continuous mining and APY-style promises.
+The original “attention” mechanic is retained as a product loop, but V3.3 removes guaranteed continuous mining and APY-style promises.
 
 A typical daily loop may include:
 
@@ -37,25 +37,20 @@ Outputs can include:
 - **Rankings**
 - **Seasonal Rewards**
 
-Rewards are subject to published campaign rules rather than permanent guaranteed yield.
+During test seasons these activities settle only in FP (Fish Points); see 7.6. Official-season $MFT rules are described in Section 11 and do not imply fixed yield.
 
 ## 7.3 Squad Activation
 
-Instead of the legacy “4 Fish = double yield” mechanic, V3.2 uses a game-oriented threshold:
+Instead of the legacy “4 Fish = double yield” mechanic, V3.3 uses a game-oriented threshold:
 
-> **4 Agents → Squad Activation**
+> **4 Agents → Squad Activation (four-fish synergy)**
 
-A Squad can unlock:
+- **1 Agent — Solo Tank:** core nurturing and social features.
+- **2–3 Agents — Growing Tank:** expanded daily combinations and collection goals.
+- **4 Agents — Squad Activation:** formation-based gameplay, team quests, Arena compositions, squad achievements and seasonal leaderboards.
+- **5+ Agents — Advanced Squad:** deeper synergy and specialization. In test seasons up to 9 fish produce FP (slots 10–12 are display-only); in the official version each tank holds at most 8 fish.
 
-- formation-based gameplay;
-- team quests;
-- Arena compositions;
-- social display;
-- squad achievements;
-- seasonal leaderboards;
-- cross-game squad badges.
-
-This preserves the satisfaction of collection growth without turning the system into a fixed-return mining loop.
+Output increases step by step but stays capped, preserving the satisfaction of collection growth without turning the system into a fixed-return mining loop.
 
 ## 7.4 Beauty & The Beast Discovery
 
@@ -90,20 +85,54 @@ It can display:
 
 The Tank therefore becomes both a social identity surface and a gateway into the broader ecosystem.
 
-## 7.6 Public Beta Season 2
+## 7.6 Test Seasons T1–T3 (Public Beta Season 2)
 
-Public Beta Season 2 is designed as a points-first environment.
+The test phase runs three seasons (T1, T2, T3). Each season has 42 days of play plus 7 days of review, 147 days in total. Test seasons produce **only FP (Fish Points)**. FP cannot be transferred, sold or purchased.
 
-The objective is to measure:
+### Fish slots and daily tank FP output
 
-- creation completion;
-- Agent quality and uniqueness;
-- retention;
-- social interaction;
-- state persistence;
-- anti-Sybil effectiveness;
-- indexer performance;
-- gameplay response;
-- SDK and integration feedback.
+| Slot       | How to obtain                              | Daily tank FP   |
+| ---------- | ------------------------------------------ | --------------: |
+| Fish 1     | Free on day one                            |             150 |
+| Fish 2     | Free on the 2nd cumulative valid day       |             250 |
+| Fish 3     | Free on the 3rd cumulative valid day       |             350 |
+| Fish 4     | 3,000 FP; activates four-fish synergy      |             850 |
+| Fish 5     | 4,500 FP                                   |             950 |
+| Fish 6     | 6,000 FP                                   |           1,050 |
+| Fish 7     | 8,000 FP                                   |           1,150 |
+| Fish 8     | 10,500 FP                                  |           1,250 |
+| Fish 9     | 13,500 FP                                  |           1,350 |
+| Fish 10–12 | Display slots: 17,000 / 21,000 / 25,500 FP | No extra output |
 
-Beta participation may produce points, achievements, provenance and eligibility under later published rules. It does not constitute a guarantee of token rewards.
+### FP spending
+
+- Nutrition renewal: 800 FP per fish every 40 days;
+- decorations: 500 FP;
+- auto-care: 300 FP per 24 hours; it does not replace the player's own daily activity.
+
+### Valid days, tasks and invites
+
+- A day counts as valid, and output is settled, only after the player personally completes care or patrol plus the basic mini-game;
+- missed days are not backfilled;
+- daily tasks give at most 50 FP;
+- when an invited user completes 7 valid days, the inviter earns 50 FP, up to 10 invitees per season;
+- popularity rankings award only badges and decorations, not FP or tokens.
+
+FP balance, cumulative earnings and spending are recorded separately. Airdrop contribution is based on **cumulative valid FP earned** and is not reduced by spending.
+
+### Game airdrop
+
+- Budget: 10 million $MFT — T1 2 million, T2 3 million, T3 5 million;
+- cap: 5,000 $MFT per person per season;
+- eligibility: complete an original fish, at least 14 valid days in the season, and pass independent identity review. No subscription, payment or token purchase is required;
+- individual airdrop = min(season pool × personal cumulative valid FP ÷ total cumulative valid FP of all eligible users, 5,000 $MFT); any undistributed amount rolls over to the next season;
+- results are published after each season, followed by a 7-day appeal window;
+- claim and release arrangements will be published before TGE.
+
+### Season reset and transition
+
+- FP and fish progression reset each season. Artwork, badges and confirmed $MFT airdrops are kept;
+- test-season FP and fish do not migrate to the official version;
+- users in the top 15% by cumulative FP across all three seasons receive 5% off their first official fish.
+
+The test seasons also measure creation completion, retention, social interaction, state persistence, anti-Sybil effectiveness, indexer performance and SDK feedback.

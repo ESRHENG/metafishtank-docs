@@ -12,21 +12,25 @@ Target practices include:
 - static analysis;
 - gas and storage profiling;
 - role and permission review;
-- external audits before high-value production deployment;
+- third-party audit of core contracts completed before launch, with the report published;
 - verified deployment addresses;
 - incident-response procedures.
 
 ## 13.2 Administrative Security
 
-Administrative control should use:
+Administrative control uses:
 
-- multisig wallets;
-- timelocks for high-impact changes;
+- a 3-of-5 multisig with a public address;
+- a 48-hour timelock for high-impact changes;
 - scoped roles;
-- emergency pause where appropriate;
 - explicit adapter revocation;
 - public change logs;
 - progressive minimization of privileged permissions.
+
+Pause boundaries:
+
+- the $MFT token contract has **no trading pause switch**, no blacklist and no wallet-specific tax rates;
+- MAP game adapters can, under defined permissions, pause or revoke write access for an individual game without affecting Agent ownership or $MFT trading.
 
 ## 13.3 Third-Party Game Risk
 
@@ -75,9 +79,20 @@ Risk controls include:
 - treasury accounting;
 - compute-reserve accounting;
 - governance timelocks;
-- public campaign rules.
+- public campaign rules;
+- one daily-task allowance per identity per day;
+- independent identity review before airdrops and rewards;
+- linked accounts do not count toward contribution.
 
-## 13.6 Governance Direction
+## 13.6 On-Chain Transparency
+
+- **On-chain dashboard:** return-reserve coverage (at least 100%), reward pools, treasury, buybacks and burns, and ecosystem emission;
+- **key rules in contracts:** transaction tax can only decrease, the return reserve can only be used for returns, and ecosystem emission cannot exceed the annual cap;
+- **parameter ranges:** adjustable parameters can only move within published ranges, behind a timelock;
+- **public vesting:** team and institutional allocations use public vesting contracts;
+- **open data:** real test-season data is published and used to calibrate the official model.
+
+## 13.7 Governance Direction
 
 Governance should mature alongside real usage.
 

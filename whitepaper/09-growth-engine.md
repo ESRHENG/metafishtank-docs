@@ -6,7 +6,7 @@ MetaFishtank's growth model is designed to turn users into distributors without 
 
 The **Talent Scout** system rewards users who discover and onboard high-quality creators or active communities.
 
-V3.2 explicitly avoids permanent referral taxes.
+V3.3 explicitly avoids permanent referral taxes.
 
 Instead, Scout programs can be:
 

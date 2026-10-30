@@ -6,6 +6,8 @@ The Tank Ecosystem is the application and distribution layer in which persistent
 
 MetaFishtank uses focused reference applications to prove specific parts of the protocol rather than committing to an unrealistic catalogue of first-party games.
 
+**Upcoming first-party games:** Aqua Arena (combat arena) and Predator Protocol (big-fish-eat-small-fish real-time survival) are first-party games planned for subsequent launch. Once live, they will follow the same platform rules as third-party games: one unified platform identity, one daily-task allowance per identity per day, and at least one $MFT spending option per game. Abyss Horizon remains a long-term research direction, not a near-term launch commitment.
+
 ### Drawafish — Creation Proof
 
 Demonstrates:

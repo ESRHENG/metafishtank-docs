@@ -13,26 +13,26 @@ The roadmap is designed around proof of persistent Agent utility rather than the
 - contract verification;
 - eligible legacy provenance snapshot-and-claim flow where required.
 
-## Phase B — Public Beta Season 2
+## Phase B — Test Seasons T1–T3 (Public Beta Season 2)
 
 - launch BNB edition of Drawafish;
-- points-first participation model;
+- three test seasons, each with 42 days of play plus 7 days of review;
+- FP-only participation, with no token rewards during testing;
 - test creation and Agent persistence;
 - measure retention, uniqueness and social interaction;
-- anti-bot / anti-Sybil testing;
-- indexer stress testing;
-- gameplay feedback;
-- SDK and developer feedback;
-- publish transparent season rules.
+- game-airdrop eligibility (10 million $MFT budget) with independent identity review;
+- anti-bot / anti-Sybil calibration;
+- indexer stress testing, gameplay and SDK feedback;
+- re-run and calibrate the economic model with real test-season data, and publish that data.
 
-## Phase C — Mainnet Genesis
+## Phase C — TGE and Official Season S1
 
-- production MAP deployment;
-- finalized creation / minting flow;
-- BNB-denominated fees where applicable;
-- eligible beta provenance and achievements migrated under published rules;
+- $MFT launch and official liquidity pool;
+- third-party audit of core contracts completed and report published;
+- production MAP deployment and finalized creation / minting flow;
+- official fish raising (game mining) and staking;
+- public on-chain dashboard;
 - contract and security documentation;
-- Compute Reserve activation;
 - marketplace features only when security and product readiness justify them.
 
 ## Phase D — Reference Game Expansion
