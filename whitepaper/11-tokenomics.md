@@ -1,4 +1,4 @@
-# 11. $MFT Tokenomics
+# 💎 11. $MFT Tokenomics
 
 $MFT is the utility and coordination token shared by every game on the MetaFishtank platform. Official fish raising, platform spending, staking and partner-game settlement all use $MFT. It is not a guaranteed-yield instrument.
 
@@ -6,7 +6,7 @@ $MFT is the utility and coordination token shared by every game on the MetaFisht
 
 **Fixed Supply: 1,000,000,000 $MFT** — fully minted at contract deployment, with no further minting.
 
-## 11.2 Allocation
+## 📊 11.2 Allocation
 
 | Category                          | Share |      Amount | Use and release |
 | --------------------------------- | ----: | ----------: | --------------- |
@@ -31,7 +31,7 @@ $MFT is the utility and coordination token shared by every game on the MetaFisht
 
 $MFT does not represent a promise of fixed yield, token price or guaranteed appreciation.
 
-## 11.4 Official Fish Raising (Game Mining)
+## 🐟 11.4 Official Fish Raising (Game Mining)
 
 Starting in official Season S1, players commit $MFT to raise fish they have drawn themselves. There are no free fish in the official version.
 
@@ -49,7 +49,7 @@ Scale and fairness:
 
 Returns and rewards are counted in $MFT, not in U.S. dollar value.
 
-## 11.5 Staking
+## 🔒 11.5 Staking
 
 - Three terms: 30, 90 and 365 days; longer locks carry higher weight;
 - reward sources: 50% of transaction tax, the 25% of service revenue used for buybacks, 5% of fish commitments, 50% of fish transfer fees, early-exit penalties, 70% of realized gains from the tokenized-stock reserve, and the ecosystem pool's staking-mining quota;
@@ -73,7 +73,7 @@ Any change to these ratios will be announced in advance.
 
 $MFT trades carry a transaction tax: 50% to the treasury and 50% to stakers. The rate starts higher, steps down over time and eventually reaches zero; it can only decrease. The exact schedule will be published before TGE. The token contract has no blacklist and does not apply different rates to different wallets.
 
-## 11.8 Treasury and Tokenized-Stock Reserve
+## 🏦 11.8 Treasury and Tokenized-Stock Reserve
 
 The treasury is funded by part of the funds raised and half of the transaction tax. Its priorities are market stability and deeper liquidity, and every use is announced in advance.
 
@@ -86,11 +86,19 @@ Part of the idle reserve may be held in **tokenized shares of leading U.S. stock
 - default split for co-operated orders: the partner receives 80% of distributable service fees within the co-operation scope, the platform 20%;
 - incentive weights consider unique active Agents, retention, ECS, protocol revenue, user satisfaction and integration quality.
 
-## 11.10 Economic Flywheel
+## 11.10 Compute Credit Model
+
+AI-native infrastructure has real operating cost. High-cost Anima functions consume **Compute Credits**, funded through the service-assurance share, developer subscriptions, API payments and partner integrations. This separates real infrastructure cost from token emission.
+
+## 11.11 Optional Locking / Governance Layer
+
+A future `veMFT`-style or other locked-token governance system may be introduced only after the ecosystem has enough real usage to justify it. Potential subjects include ecosystem incentive weights, grants, developer programs, adapter policy and treasury transparency. Security-sensitive configuration remains protected by multisig, timelocks and expert review.
+
+## 🔄 11.12 Economic Flywheel
 
 Players buy $MFT to raise fish → 15% burn / 80% return reserve / 5% staking pool → returns + variable rewards → re-commit to fish or move to staking → stakers share tax, buybacks and stock-reserve gains → treasury adds liquidity and funds campaigns → more players.
 
-## 11.11 Economic Principles
+## 11.13 Economic Principles
 
 1. **No guaranteed yield.** All rewards are variable and counted in $MFT.
 2. **Returns funded first.** The return reserve is fully funded in advance and can only be used for returns.

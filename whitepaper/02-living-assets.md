@@ -1,4 +1,4 @@
-# 2. The Era of Living Assets
+# 🧬 2. The Era of Living Assets
 
 ## 2.1 From UGC to UGA
 

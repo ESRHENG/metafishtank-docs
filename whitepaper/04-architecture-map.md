@@ -1,4 +1,4 @@
-# 4. Architecture: MAP × Anima × Tank
+# 🏗️ 4. Architecture: MAP × Anima × Tank
 
 ```mermaid
 graph TB

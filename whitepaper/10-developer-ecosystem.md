@@ -1,4 +1,4 @@
-# 10. Developer Ecosystem: Open Ocean Strategy
+# 🛠️ 10. Developer Ecosystem: Open Ocean Strategy
 
 > **Democratizing AI-native game development by giving developers assets, users, state and intelligence as reusable infrastructure.**
 

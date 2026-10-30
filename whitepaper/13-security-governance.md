@@ -1,4 +1,4 @@
-# 13. Security, Governance & Risk Management
+# 🛡️ 13. Security, Governance & Risk Management
 
 Persistent cross-game Agents create a broader attack surface than ordinary static NFTs. MetaFishtank therefore treats security and permission design as part of the protocol, not as an afterthought.
 
@@ -84,7 +84,7 @@ Risk controls include:
 - independent identity review before airdrops and rewards;
 - linked accounts do not count toward contribution.
 
-## 13.6 On-Chain Transparency
+## 🔍 13.6 On-Chain Transparency
 
 - **On-chain dashboard:** return-reserve coverage (at least 100%), reward pools, treasury, buybacks and burns, and ecosystem emission;
 - **key rules in contracts:** transaction tax can only decrease, the return reserve can only be used for returns, and ecosystem emission cannot exceed the annual cap;

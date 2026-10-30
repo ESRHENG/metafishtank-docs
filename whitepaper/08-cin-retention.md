@@ -1,4 +1,4 @@
-# 8. The C.I.N. Retention Model
+# 💞 8. The C.I.N. Retention Model
 
 Drawafish is designed around three mutually reinforcing psychological loops:
 

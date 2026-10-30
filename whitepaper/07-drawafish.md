@@ -1,4 +1,4 @@
-# 7. Drawafish — The Agent Bootstrap Application
+# 🎨 7. Drawafish — The Agent Bootstrap Application
 
 Drawafish is the genesis application for MetaFishtank. Its purpose is larger than minting a collection: it bootstraps the first meaningful population of User-Generated Agents, the first behavioral dataset and the first recurring user loop.
 
@@ -39,7 +39,7 @@ Outputs can include:
 
 During test seasons these activities settle only in FP (Fish Points); see 7.6. Official-season $MFT rules are described in Section 11 and do not imply fixed yield.
 
-## 7.3 Squad Activation
+## 🐟 7.3 Squad Activation
 
 Instead of the legacy “4 Fish = double yield” mechanic, V3.3 uses a game-oriented threshold:
 
@@ -85,7 +85,7 @@ It can display:
 
 The Tank therefore becomes both a social identity surface and a gateway into the broader ecosystem.
 
-## 7.6 Test Seasons T1–T3 (Public Beta Season 2)
+## 🧪 7.6 Test Seasons T1–T3 (Public Beta Season 2)
 
 The test phase runs three seasons (T1, T2, T3). Each season has 42 days of play plus 7 days of review, 147 days in total. Test seasons produce **only FP (Fish Points)**. FP cannot be transferred, sold or purchased.
 

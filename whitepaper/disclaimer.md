@@ -1,4 +1,4 @@
-# Disclaimer
+# ⚠️ Disclaimer
 
 This whitepaper describes the current product, technical and economic direction of MetaFishtank.
 

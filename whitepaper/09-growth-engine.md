@@ -1,4 +1,4 @@
-# 9. Growth Engine: Creators, Scouts & Guild Tanks
+# 🚀 9. Growth Engine: Creators, Scouts & Guild Tanks
 
 MetaFishtank's growth model is designed to turn users into distributors without relying on permanent extraction from downstream users.
 

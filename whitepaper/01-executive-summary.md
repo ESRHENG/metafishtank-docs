@@ -1,4 +1,4 @@
-# 1. Executive Summary
+# 🧭 1. Executive Summary
 
 ## 1.1 The Mission: From Static Assets to Living Agents
 

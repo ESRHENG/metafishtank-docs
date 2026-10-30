@@ -1,4 +1,4 @@
-# 3. Why BNB Chain?
+# ⛓️ 3. Why BNB Chain?
 
 MetaFishtank requires an execution environment that supports frequent asset-state interaction, low-friction onboarding, mature EVM tooling and a growing on-chain Agent ecosystem.
 

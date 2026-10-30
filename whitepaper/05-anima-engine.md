@@ -1,4 +1,4 @@
-# 5. Anima Engine™ — Intelligence Layer
+# 🧠 5. Anima Engine™ — Intelligence Layer
 
 **Definition:** The interpretation, validation, behavior and state-compilation engine for User-Generated Agents.
 

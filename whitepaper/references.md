@@ -1,4 +1,4 @@
-# References
+# 📚 References
 
 The following sources provide technical context for the execution environment and compatibility targets discussed in this whitepaper.
 

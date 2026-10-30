@@ -1,4 +1,4 @@
-# 12. Roadmap
+# 🗺️ 12. Roadmap
 
 The roadmap is designed around proof of persistent Agent utility rather than the number of games launched.
 

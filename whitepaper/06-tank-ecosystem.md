@@ -1,4 +1,4 @@
-# 6. Tank Ecosystem & Open Ocean
+# 🐠 6. Tank Ecosystem & Open Ocean
 
 The Tank Ecosystem is the application and distribution layer in which persistent Agents become useful.
 

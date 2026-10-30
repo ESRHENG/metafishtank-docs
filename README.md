@@ -1,4 +1,4 @@
-# MetaFishtank Whitepaper V3.3
+# 🌊 MetaFishtank Whitepaper V3.3
 
 **The Infrastructure for User-Generated Agents (UGA) on BNB Chain**
 
